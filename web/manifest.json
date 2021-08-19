@@ -1,6 +1,6 @@
 {
-    "name": "moviesync",
-    "short_name": "moviesync",
+    "name": "movie",
+    "short_name": "movie",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

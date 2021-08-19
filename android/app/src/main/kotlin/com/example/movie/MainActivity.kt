@@ -1,4 +1,4 @@
-package com.example.moviesync
+package com.example.movie
 
 import io.flutter.embedding.android.FlutterActivity
 
